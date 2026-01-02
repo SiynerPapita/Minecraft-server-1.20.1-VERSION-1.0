@@ -1,0 +1,383 @@
+
+["Blessment Settings"]
+	#minimum enchantability for barrier enchantment
+	barrierMinCost = 1
+	#maximum enchantability for barrier enchantment
+	barrierMaxCost = 11
+	#pushing power for each level of barrier enchantment
+	barrierPushPowerPerLevel = 0.01
+	#pushing radius for each level of barrier enchantment
+	barrierRadiusPerLevel = 2.0
+	#disable players pushed by barrier enchantment
+	disableBarrierPushingPlayer = true
+	#minimum enchantability for hardening blessment
+	hardeningMinCost = 1
+	#maximum enchantability for hardening blessment
+	hardeningMaxCost = 11
+	#armor increase amount for each level of hardening blessment
+	hardeningArmorPerLevel = 0.05
+	#maximum armor point for each level of hardening blessment
+	hardeningMaxArmorPerLevel = 2.0
+	#minimum enchantability for rage blessment
+	rageMinCost = 1
+	#maximum enchantability for rage blessment
+	rageMaxCost = 11
+	#damage increase amount for each level of rage blessment
+	rageDamagePerLevel = 0.05
+	#maximum damage for each level of rage blessment
+	rageMaxDamagePerLevel = 2.0
+	#speed increase amount for each level of rage blessment
+	rageSpeedPerLevel = 0.05
+	#maximum speed for each level of rage blessment
+	rageMaxSpeedPerLevel = 2.0
+	#minimum enchantability for returning blessment
+	returningMinCost = 1
+	#maximum enchantability for returning blessment
+	returningMaxCost = 11
+	#minimum durability required for each level of returning blessment
+	returningDurabilityPerLevel = 1000
+	#minimum enchantability for homing blessment
+	homingMinCost = 1
+	#maximum enchantability for homing blessment
+	homingMaxCost = 11
+	#maximum homing time for each level of homing blessment
+	homingMaxHomingTimePerLevel = 3.0
+	#disable homing blessment work with other players
+	disableHomingPlayers = true
+	#minimum enchantability for mirror blessment
+	mirrorMinCost = 1
+	#maximum enchantability for mirror blessment
+	mirrorMaxCost = 11
+	#chance to reflect damage and projectile for each level of mirror blessment
+	mirrorReflectChancePerLevel = 20.0
+	#minimum enchantability for soul of terrarian blessment
+	soulOfTerrarianMinCost = 1
+	#maximum enchantability for soul of terrarian blessment
+	soulOfTerrarianMaxCost = 11
+	#additional projectile amount for each level of soul of terrarian blessment
+	soulOfTerrarianProjAmountPerLevel = 2
+	#minimum enchantability for god hand blessment
+	godHandMinCost = 1
+	#maximum enchantability for god hand blessment
+	godHandMaxCost = 11
+	#cooldown decrease amount for each level of god hand blessment
+	godHandCooldownPerLevel = 1
+	#minimum enchantability for malice blessment
+	maliceMinCost = 1
+	#maximum enchantability for malice blessment
+	maliceMaxCost = 11
+	#damage decrease amount for each level of malice blessment
+	maliceDamagePerLevel = 2.0
+	#health percentage for each level of malice blessment
+	malicePercentagePerLevel = 0.4
+	#minimum enchantability for auto shielding blessment
+	autoShieldingMinCost = 1
+	#maximum enchantability for auto shielding blessment
+	autoShieldingMaxCost = 11
+	#shielding change for each level of auto shielding blessment
+	autoShieldingChancePerLevel = 5.0
+	#minimum enchantability for grinding blessment
+	grindingMinCost = 1
+	#maximum enchantability for grinding blessment
+	grindingMaxCost = 11
+	#maximum additional damage for each level of grinding blessment
+	grindingMaxDamagePerLevel = 3.0
+	#maximum additional mining speed for each level of grinding blessment
+	grindingMaxSpeedPerLevel = 3.0
+	#minimum durability required to increase damage for each level of grinding blessment
+	grindingDurabilityPerLevel = 900
+	#additional damage when enough durability used for each level of grinding blessment
+	grindingDamagePerLevel = 2.0
+	#additional mining speed when enough durability used for each level of grinding blessment
+	grindingSpeedPerLevel = 2.0
+	#minimum enchantability for accelerate blessment
+	accelerateMinCost = 1
+	#maximum enchantability for accelerate blessment
+	accelerateMaxCost = 11
+	#minimum enchantability for critical strike enchantment
+	criticalStrikeMinCost = 1
+	#maximum enchantability for critical strike enchantment
+	criticalStrikeMaxCost = 11
+	#critical chance for each level of critical strike enchantment
+	criticalStrikeChancePerLevel = 10.0
+	#minimum enchantability for heart steal blessment
+	heartStealMinCost = 1
+	#maximum enchantability for heart steal blessment
+	heartStealMaxCost = 11
+	#heal amount for each level of heart steal blessment
+	heartStealHealAmountPerLevel = 0.5
+	#heal change for each level of heart steal blessment
+	heartStealChancePerLevel = 5.0
+	#minimum enchantability for healing cutter blessment
+	healingCutterMinCost = 1
+	#maximum enchantability for healing cutter blessment
+	healingCutterMaxCost = 11
+	#active chance for each level of healing cutter blessment
+	healingCutterChancePerLevel = 10.0
+	#active duration for each level of healing cutter blessment
+	healingCutterDurationPerLevel = 1
+	#reduce amount for each level of healing cutter blessment
+	healingCutterAmountPerLevel = 2.0
+	#minimum enchantability for air swimming blessment
+	airSwimmingMinCost = 1
+	#maximum enchantability for air swimming blessment
+	airSwimmingMaxCost = 11
+	#minimum enchantability for multi strike blessment
+	multiStrikeMinCost = 1
+	#maximum enchantability for multi strike blessment
+	multiStrikeMaxCost = 11
+	#active chance for each level of multi strike blessment
+	multiStrikeChancePerLevel = 2.0
+	#additional attack amount for each level of multi strike blessment
+	multiStrikeAmountPerLevel = 1
+	#minimum enchantability for solaria blessment
+	solariaMinCost = 1
+	#maximum enchantability for solaria blessment
+	solariaMaxCost = 11
+	#recovery interval for each level of solaria blessment
+	solariaIntervalPerLevel = 1.0
+	#recovery amount for each level of solaria blessment
+	solariaAmountPerLevel = 1
+	#minimum enchantability for time break blessment
+	timeBreakMinCost = 1
+	#maximum enchantability for time break blessment
+	timeBreakMaxCost = 11
+	#active chance for each level of time break blessment
+	timeBreakChancePerLevel = 1.0
+	#active duration for each level of time break blessment
+	timeBreakDurationPerLevel = 1
+
+["Enchantment Settings"]
+	#minimum enchantability for waterbolt enchantment
+	waterboltMinCost = 25
+	#maximum enchantability for waterbolt enchantment
+	waterboltMaxCost = 50
+	#minimum enchantability for mermaid's blessing enchantment
+	mermaidsBlessingMinCost = 1
+	#maximum enchantability for mermaid's blessing enchantment
+	mermaidsBlessingMaxCost = 11
+	#maximum value of mob health that affected by mermaid's blessing enchantment
+	mermaidsBlessingMaxMobHealthPerLevel = 10.0
+	#maximum value of mob damage that affected by mermaid's blessing enchantment
+	mermaidsBlessingMaxMobDamagePerLevel = 2.0
+	#minimum enchantability for sharp waves enchantment
+	sharpWavesMinCost = 1
+	#maximum enchantability for sharp waves enchantment
+	sharpWavesMaxCost = 11
+	#maximum additional damage for each level of sharp waves enchantment
+	sharpWavesMaxDamagePerLevel = 5.0
+	#minimum distance required to increase damage for each level of sharp waves enchantment
+	sharpWavesDistancePerLevel = 100.0
+	#additional damage amount when enough distance traveled for each level of sharp waves enchantment
+	sharpWavesDamagePerDistanceAndLevel = 0.5
+	#minimum enchantability for tide enchantment
+	tideMinCost = 1
+	#maximum enchantability for tide enchantment
+	tideMaxCost = 11
+	#maximum speed for each level of tide enchantment
+	tideMaxSpeedPerLevel = 0.01
+	#tide speed for each level of tide enchantment
+	tideSpeedPerLevel = 0.002
+	#minimum enchantability for poseidon's grace enchantment
+	poseidonsGraceMinCost = 1
+	#maximum enchantability for poseidon's grace enchantment
+	poseidonsGraceMaxCost = 11
+	#speed multiplier of summoned trident for poseidon's grace enchantment
+	poseidonsGraceTridentSpeed = 1.3
+	#minimum enchantability for wave's protection enchantment
+	wavesProtectionMinCost = 1
+	#maximum enchantability for wave's protection enchantment
+	wavesProtectionMaxCost = 11
+	#effect speed for each level of wave's protection enchantment
+	wavesProtectionSpeedPerLevel = 0.1
+	#effect duration for each level of wave's protection enchantment
+	wavesProtectionDurationPerLevel = 1
+	#minimum enchantability for lord of the sea enchantment
+	lordoftheseaMinCost = 1
+	#maximum enchantability for lord of the sea enchantment
+	lordoftheseaMaxCost = 11
+	#effect radius for each level of lord of the sea enchantment
+	lordoftheseaRadiusPerLevel = 2.0
+	#attack damage of animals for each level of lord of the sea enchantment
+	lordoftheseaAnimalsDamagePerLevel = 1.0
+	#maximum value of animals that affected for each level of lord of the sea enchantment
+	lordoftheseaMaxAnimalsAmountPerLevel = 2
+	#minimum enchantability for sailing enchantment
+	sailingMinCost = 1
+	#maximum enchantability for sailing enchantment
+	sailingMaxCost = 11
+	#additional speed of vehicle for each level of sailing enchantment
+	sailingSpeedPerLevel = 0.1
+	#minimum enchantability for water jet enchantment
+	waterJetMinCost = 25
+	#maximum enchantability for water jet enchantment
+	waterJetMaxCost = 50
+	#minimum enchantability for aquatic aura enchantment
+	aquaticAuraMinCost = 1
+	#maximum enchantability for aquatic aura enchantment
+	aquaticAuraMaxCost = 11
+	#effect radius for each level of aquatic aura enchantment
+	aquaticAuraRadiusPerLevel = 3.0
+	#disable players affected by aquatic aura enchantment
+	disableAquaticAuraToPlayer = true
+	#minimum enchantability for curse of mermaid enchantment
+	mermaidsCurseMinCost = 1
+	#maximum enchantability for curse of mermaid enchantment
+	mermaidsCurseMaxCost = 11
+	#affect radius for each level of curse of mermaid enchantment
+	mermaidsCurseRadiusPerLevel = 7.0
+	#minimum enchantability for curse of floating enchantment
+	floatingCurseMinCost = 1
+	#maximum enchantability for curse of floating enchantment
+	floatingCurseMaxCost = 11
+	#floating speed of per level for curse of floating enchantment
+	floatingCurseFloatingSpeedPerLevel = 0.05
+	#minimum enchantability for curse of abyss enchantment
+	abyssCurseMinCost = 1
+	#maximum enchantability for curse of abyss enchantment
+	abyssCurseMaxCost = 11
+	#fog density for each level of curse of abyss enchantment
+	abyssCurseFogDensityPerLevel = 5.0
+	#minimum enchantability for rusty enchantment
+	rustyMinCost = 1
+	#maximum enchantability for rusty enchantment
+	rustyMaxCost = 11
+	#durability decrease interval for each level of rusty enchantment
+	rustyDecreaseIntervalPerLevel = 5.0
+	#minimum enchantability for overgravity enchantment
+	overgravityMinCost = 1
+	#maximum enchantability for overgravity enchantment
+	overgravityMaxCost = 11
+	#additional fall damage for each level of overgravity enchantment
+	overgravityFallDamagePerLevel = 1.0
+	#falling speed for each level of overgravity enchantment
+	overgravityFallSpeedPerLevel = 0.05
+	#minimum enchantability for curse of undead enchantment
+	undeadCurseMinCost = 1
+	#maximum enchantability for curse of undead enchantment
+	undeadCurseMaxCost = 11
+	#fire duration for each level of curse of undead enchantment
+	undeadCurseFireDurationPerLevel = 5
+	#minimum enchantability for curse of enderman enchantment
+	endermanCurseMinCost = 1
+	#maximum enchantability for curse of enderman enchantment
+	endermanCurseMaxCost = 11
+	#damage amount for each level of curse of enderman enchantment
+	endermanCurseDamagePerLevel = 0.2
+	#minimum enchantability for curse of sinking enchantment
+	sinkingCurseMinCost = 1
+	#maximum enchantability for curse of sinking enchantment
+	sinkingCurseMaxCost = 11
+	#sinking speed for each level of curse of sinking enchantment
+	sinkingCurseSpeedPerLevel = 0.05
+	#minimum enchantability for lavawalker enchantment
+	lavaWalkerMinCost = 25
+	#maximum enchantability for lavawalker enchantment
+	lavaWalkerMaxCost = 50
+	#minimum enchantability for auto smelt enchantment
+	autoSmeltMinCost = 25
+	#maximum enchantability for auto smelt enchantment
+	autoSmeltMaxCost = 50
+	#minimum enchantability for flame thorn enchantment
+	flameThornMinCost = 1
+	#maximum enchantability for flame thorn enchantment
+	flameThornMaxCost = 11
+	#thorn damage for each level of flame thorn enchantment
+	flameThornDamagePerLevel = 1.5
+	#fire duration for each level of flame thorn enchantment
+	flameThornFireDurationPerLevel = 1
+	#minimum enchantability for dry enchantment
+	dryMinCost = 1
+	#maximum enchantability for dry enchantment
+	dryMaxCost = 11
+	#absorb radius for each level of dry enchantment
+	dryRadiusPerLevel = 5
+	#minimum enchantability for soul fire enchantment
+	soulFireMinCost = 1
+	#maximum enchantability for soul fire enchantment
+	soulFireMaxCost = 11
+	#fire duration for each level of soul fire enchantment
+	soulFireDurationPerLevel = 1
+	#minimum enchantability for teleportation enchantment
+	teleportationMinCost = 25
+	#maximum enchantability for teleportation enchantment
+	teleportationMaxCost = 50
+	#minimum enchantability for sonic boom enchantment
+	sonicBoomMinCost = 1
+	#maximum enchantability for sonic boom enchantment
+	sonicBoomMaxCost = 11
+	#damage for each level of sonic boom enchantment
+	sonicBoomDamagePerLevel = 1.0
+	#distance for each level of sonic boom enchantment
+	sonicBoomDistancePerLevel = 2.0
+	#minimum enchantability for infection enchantment
+	infectionMinCost = 1
+	#maximum enchantability for infection enchantment
+	infectionMaxCost = 11
+	#additional exp orb count for each level of infection enchantment
+	infectionExpPerLevel = 1
+	#minimum enchantability for concealment enchantment
+	concealmentMinCost = 25
+	#maximum enchantability for concealment enchantment
+	concealmentMaxCost = 50
+	#minimum enchantability for recochet enchantment
+	recochetMinCost = 1
+	#maximum enchantability for recochet enchantment
+	recochetMaxCost = 11
+	#bouncing count for each level of recochet enchantment
+	recochetBouncePerLevel = 2
+	#minimum enchantability for climb enchantment
+	climbMinCost = 1
+	#maximum enchantability for climb enchantment
+	climbMaxCost = 11
+	#climb speed for each level of climb enchantment
+	climbSpeedPerLevel = 0.05
+	#minimum enchantability for wallbreak enchantment
+	wallbreakMinCost = 25
+	#maximum enchantability for wallbreak enchantment
+	wallbreakMaxCost = 50
+	#minimum enchantability for magnet enchantment
+	magnetMinCost = 1
+	#maximum enchantability for magnet enchantment
+	magnetMaxCost = 11
+	#attract range for each level of magnet enchantment
+	magnetRadiusPerLevel = 3.0
+	#minimum enchantability for cell division enchantment
+	cellDivisionMinCost = 1
+	#maximum enchantability for cell division enchantment
+	cellDivisionMaxCost = 11
+	#scale decrease amount for each split of cell division enchantment
+	cellDivisionScalePerSplit = 0.3
+	#maximum split amount for each level of cell division enchantment
+	cellDivisionMaxSplitPerLevel = 1
+	#amount for additional projectile of each split for each level of cell division enchantment
+	cellDivisionSplitAmountPerLevel = 1
+	#minimum enchantability for takeoff enchantment
+	takeoffMinCost = 25
+	#maximum enchantability for takeoff enchantment
+	takeoffMaxCost = 50
+	#minimum enchantability for armor crack enchantment
+	armorCrackMinCost = 1
+	#maximum enchantability for armor crack enchantment
+	armorCrackMaxCost = 11
+	#additional damage percentage for each level of armor crack enchantment
+	armorCrackDamagePerLevel = 10.0
+	#minimum enchantability for accelerate enchantment
+	minerMinCost = 1
+	#maximum enchantability for accelerate enchantment
+	minerMaxCost = 11
+	#maximum block break count for each level of miner enchantment
+	minerMaxBlockPerLevel = 1
+
+["Extra Settings"]
+	#able to combine any enchantments in anvil
+	noEnchantCap = true
+	#remove repair cost increasing to prevent too expensive message
+	noIncreasingRepairCost = true
+	#able to merge enchants to get enchant with higher level
+	anvilOverlevelBooks = true
+	#able to enchant anything in anvil
+	anvilAlwaysAllowBooks = true
+	#able to disenchanting with vanilla book
+	disenchanting = true
+
